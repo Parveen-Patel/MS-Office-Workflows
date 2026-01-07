@@ -1,6 +1,4 @@
 # MS-Office-Workflows
-A Step‑by‑step usage of Microsoft Office tools with real‑world examples for data analysis and business reporting.
-# Productivity Toolkit 
 
 ## Overview
 This documents workflows and step‑by‑step usage for **Microsoft Office**, **Google Sheets**.  
@@ -110,7 +108,7 @@ In short: OneDrive and SharePoint let you **store, share, and collaborate on fil
 
 # Microsoft Office vs Google Sheets
 
-## 🖥 Microsoft Office (Microsoft 365)
+## Microsoft Office (Microsoft 365)
 Microsoft Office (also known as Microsoft 365) is a suite of productivity applications.  
 
 **Excel** is Microsoft’s spreadsheet tool.  
