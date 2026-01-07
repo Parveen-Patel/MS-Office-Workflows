@@ -33,7 +33,7 @@ Microsoft Word is more than just typing text. It helps professionals create poli
 In short: Word lets you **write, format, collaborate, and share professional documents** with ease.
 
 
-## Microsoft ExceL:
+## Microsoft Excel:
 
 Microsoft Excel is a powerful tool for working with data, creating reports, and building dashboards. Here are the key things you can do:
 
