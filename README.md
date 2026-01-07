@@ -1,13 +1,12 @@
 # MS-Office-Workflows
 A Step‑by‑step usage of Microsoft Office tools with real‑world examples for data analysis and business reporting.
-# 📘 Productivity Toolkit README
+# Productivity Toolkit 
 
 ## Overview
 This documents workflows and step‑by‑step usage for **Microsoft Office**, **Google Sheets**.  
 
 ---
-
-## 🖥 Microsoft Office
+## Microsoft Office
 
 ### Applications
 - **Word** → Documentation, reports, proposals
@@ -17,7 +16,7 @@ This documents workflows and step‑by‑step usage for **Microsoft Office**, **
 - **OneDrive/SharePoint** → Cloud storage and collaboration
 
 
-## 📝 Microsoft Word Features
+## Microsoft Word:
 
 Microsoft Word is more than just typing text. It helps professionals create polished, structured, and collaborative documents. Here are the key things you can do:
 
@@ -33,9 +32,10 @@ Microsoft Word is more than just typing text. It helps professionals create poli
 - **Accessibility & security** → Run accessibility checks, restrict editing, or password-protect sensitive documents.
 - **Export options** → Save the final version as PDF so formatting stays locked and looks the same everywhere.
 
-👉 In short: Word lets you **write, format, collaborate, and share professional documents** with ease.
+In short: Word lets you **write, format, collaborate, and share professional documents** with ease.
 
-## 📊 Microsoft Excel Features
+
+## Microsoft ExceL:
 
 Microsoft Excel is a powerful tool for working with data, creating reports, and building dashboards. Here are the key things you can do:
 
@@ -51,10 +51,10 @@ Microsoft Excel is a powerful tool for working with data, creating reports, and 
 - **Collaboration** → Save files to OneDrive, share with colleagues, and co‑edit in real time.
 - **Export options** → Save reports as PDF or CSV for easy sharing and distribution.
 
-👉 In short: Excel lets you **collect, analyze, visualize, and share data** to support smarter business decisions.
+In short: Excel lets you **collect, analyze, visualize, and share data** to support smarter business decisions.
 
 
-## 🎨 Microsoft PowerPoint Features
+## Microsoft PowerPoint:
 
 Microsoft PowerPoint is the go‑to tool for creating clear, engaging presentations. Here are the key things you can do:
 
@@ -68,10 +68,10 @@ Microsoft PowerPoint is the go‑to tool for creating clear, engaging presentati
 - **Collaboration** → Share via OneDrive/SharePoint, co‑edit slides, and add comments for feedback.
 - **Export options** → Save presentations as PDF for handouts or record as video for remote sharing.
 
-👉 In short: PowerPoint helps you **tell stories visually, present ideas clearly, and engage your audience effectively.**
+In short: PowerPoint helps you **tell stories visually, present ideas clearly, and engage your audience effectively.**
 
 
-## 📧 Microsoft Outlook Features
+## Microsoft Outlook:
 
 Microsoft Outlook is the central tool for managing email, calendars, and tasks in a professional setting. Here are the key things you can do:
 
@@ -86,9 +86,10 @@ Microsoft Outlook is the central tool for managing email, calendars, and tasks i
 - **Security** → Use encryption, junk mail filters, and safe links to protect communication.
 - **Mobile access** → Sync Outlook on your phone to manage email and calendar on the go.
 
-👉 In short: Outlook helps you **communicate effectively, stay organized, and manage your time and tasks** in one place.
+In short: Outlook helps you **communicate effectively, stay organized, and manage your time and tasks** in one place.
 
-## ☁️ Microsoft OneDrive & SharePoint Features
+
+## Microsoft OneDrive & SharePoint:
 
 OneDrive and SharePoint are Microsoft’s cloud tools for storing, sharing, and collaborating on files. They make teamwork easier and keep documents safe and accessible anywhere.
 
@@ -103,20 +104,14 @@ OneDrive and SharePoint are Microsoft’s cloud tools for storing, sharing, and 
 - **Security** → Enterprise-grade protection with encryption and compliance features.
 - **Mobile access** → Use OneDrive and SharePoint apps to access files on the go.
 
-👉 In short: OneDrive and SharePoint let you **store, share, and collaborate on files securely in the cloud.**
+In short: OneDrive and SharePoint let you **store, share, and collaborate on files securely in the cloud.**
 
 
-# 📘 Microsoft Office vs Google Sheets
 
+# Microsoft Office vs Google Sheets
 
 ## 🖥 Microsoft Office (Microsoft 365)
 Microsoft Office (also known as Microsoft 365) is a suite of productivity applications.  
-It includes:
-- Word → Documents and reports
-- Excel → Spreadsheets and data analysis
-- PowerPoint → Presentations
-- Outlook → Email and calendar
-- OneDrive/SharePoint → Cloud storage and collaboration
 
 **Excel** is Microsoft’s spreadsheet tool.  
 - Works as a desktop application with cloud support via OneDrive/SharePoint.  
@@ -125,10 +120,7 @@ It includes:
 - Integrates with other Office apps and Power BI.  
 - Full offline functionality.
 
----
-
-## ☁️ Google Sheets (Google Workspace)
-Google Sheets is part of **Google Workspace** (formerly G Suite).  
+**Google Sheets** is part of **Google Workspace** (formerly G Suite).  
 Google Workspace includes:
 - Google Docs → Documents
 - Google Sheets → Spreadsheets
@@ -137,7 +129,7 @@ Google Workspace includes:
 - Google Drive → Cloud storage
 - Google Forms → Data collection
 
-## 📊 Google Sheets Features
+## Google Sheets:
 
 Google Sheets is a cloud-based spreadsheet tool that makes it easy to work with data and collaborate in real time. Here are the key things you can do:
 
@@ -152,17 +144,17 @@ Google Sheets is a cloud-based spreadsheet tool that makes it easy to work with 
 - **Version history** → Review and restore previous versions of a sheet if needed.
 - **Accessibility** → Access sheets from any device with an internet connection.
 
-👉 In short: Google Sheets lets you **analyze, visualize, and collaborate on data easily in the cloud.**
+In short: Google Sheets lets you **analyze, visualize, and collaborate on data easily in the cloud.**
 
 ---
 
-## 🔑 Key Distinction
+## Key Distinction:
 - **Excel (Microsoft Office)** → Desktop + cloud, advanced features, best for heavy data analysis and enterprise reporting.  
 - **Google Sheets (Google Workspace)** → Cloud-native, easy collaboration, best for teamwork and lightweight reporting.  
 
 ---
 
-## ✅ Summary
+## Summary:
 - Google Sheets does **not** come with Microsoft Office.  
 - Microsoft Office includes **Excel** as its spreadsheet tool.  
 - Google Sheets is part of **Google Workspace**, a separate ecosystem.  
@@ -172,7 +164,7 @@ Google Sheets is a cloud-based spreadsheet tool that makes it easy to work with 
 
 
 ---
-# 📂 Other Microsoft Office / Microsoft 365 Apps
+# Other Microsoft Office / Microsoft 365 Apps:
 
 ## Overview
 Microsoft Office is more than just **Word, Excel, and PowerPoint**.  
@@ -180,8 +172,7 @@ It is now part of **Microsoft 365**, which bundles productivity apps, communicat
 
 ---
 
-## 📘 Applications & Uses
-
+## Applications & Uses (For More Information):
 | App / Service        | Purpose / Use                                                                 |
 |-----------------------|-------------------------------------------------------------------------------|
 | **Access**            | Database management tool (PC only) for creating and managing relational databases. |
@@ -201,7 +192,7 @@ It is now part of **Microsoft 365**, which bundles productivity apps, communicat
 
 ---
 
-## 🔑 Key Takeaway
+## Key Takeaway:
 - Microsoft Office is now part of **Microsoft 365**, a complete ecosystem.  
 - It includes:
   - **Productivity apps** → Word, Excel, PowerPoint  
